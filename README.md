@@ -37,8 +37,8 @@ This app follows a basic layered architecture:
 
 ## 🛠️ How to Run the App
  1. **Clone the Repository**
-   ```bash
-    git clone https://github.com/kuldi0305/aletha_health.git
+
+git clone https://github.com/kuldi0305/aletha_health.git
    cd aletha_health_app
  - open the project in VS Code or Android Studio
  - Make sure you have flutter SDK version 3.24.5 • channel stable and Dart Version 3.5.4 installed
